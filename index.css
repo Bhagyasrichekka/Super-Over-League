@@ -1,0 +1,19 @@
+/* Write your code here. */
+.bg {
+  background-color: #0f172a;
+  padding: 50px;
+  text-align: center;
+  margin
+}
+.heading {
+  color: white;
+}
+.card {
+  display: flex;
+ margin: auto;
+  width: 50%;
+}
+.img {
+  height: 150px;
+  width: 150px;
+}
